@@ -1,0 +1,15 @@
+# Local AI mentor rules
+GEMINI.md
+
+# CMake / Build outputs
+build/
+out/
+cmake-build-*/
+CMakeUserPresets.json
+
+# IDE / OS
+.vs/
+*.user
+*.suo
+.DS_Store
+Thumbs.db
